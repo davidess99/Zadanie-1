@@ -9,3 +9,5 @@ Dôraz bude kladený na jednoduchosť prostredia a pozitívny používateľský 
 Súčasťou aplikácie budú reporty prezentované vo faktografickej i grafickej podobe, pričom sa nevylučuje integrácia základných gamifikačných prvkov.
 Charakter práce: aplikačný - pozostávajúci z popisu riešeného problému, analýzy existujúcich riešení, návrhu vlastného riešenia, metodiky vývoja/tvorby, implementácie, popisu vytvoreného riešenia, testovania aplikácie používateľmi.
 Požiadavky na vedomosti a zručnosti študenta: kreativita, schopnosť samostatného analytického myslenia a štúdia literatúry, vhodné skúsenosti v oblasti Vue.js, HTML5, JavaScript a pod.
+
+AR 2020/2021
