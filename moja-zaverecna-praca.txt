@@ -1,1 +1,11 @@
 Názov: Frontendové frameworky pri tvorbe podnikových aplikácií
+
+Anotácia: 
+Súčasné webové aplikácie možno vytvárať s využitím rôznych frontendových ako aj backendových frameworkov. 
+Z dôvodu jednoduchého napojenia sa na backendové frameworky a potenciálneho duplikovania v podobe mobilnej aplikácie sa čoraz masívnejšie presadzujú prostredia založené na jazyku JavaScript. 
+Jedným z nich je aj prostredie Vue.js.
+Cieľ práce: Identifikovať a prezentovať možnosti využitia Vue.js (s možnosťou využitia ďalších nadstavieb) pri tvorbe podnikovej aplikácie zabezpečujúcej evidovanie a sledovanie činností i výkonu zamestnancov. 
+Dôraz bude kladený na jednoduchosť prostredia a pozitívny používateľský zážitok. 
+Súčasťou aplikácie budú reporty prezentované vo faktografickej i grafickej podobe, pričom sa nevylučuje integrácia základných gamifikačných prvkov.
+Charakter práce: aplikačný - pozostávajúci z popisu riešeného problému, analýzy existujúcich riešení, návrhu vlastného riešenia, metodiky vývoja/tvorby, implementácie, popisu vytvoreného riešenia, testovania aplikácie používateľmi.
+Požiadavky na vedomosti a zručnosti študenta: kreativita, schopnosť samostatného analytického myslenia a štúdia literatúry, vhodné skúsenosti v oblasti Vue.js, HTML5, JavaScript a pod.
